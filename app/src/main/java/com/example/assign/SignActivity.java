@@ -28,9 +28,9 @@ public class SignActivity extends AppCompatActivity {
 
     public void WeatherHandler(View view) {
 
-        Intent sintent = new Intent(SignActivity.this,Main.class) ;
+        //Intent sintent = new Intent(SignActivity.this,Main.class) ;
 
 
-        startActivity(sintent);
+        //startActivity(sintent);
     }
 }
